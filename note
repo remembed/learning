@@ -3,3 +3,4 @@ ls
 pwd
 ls -l
 d r w x-
+mkdir
